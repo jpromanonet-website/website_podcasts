@@ -86,6 +86,11 @@ const Navbar = () => {
                   Home
                 </li>
               </Link>
+              <Link href="/#ututo">
+                <li onClick={() => setNav(false)} className="py-4 text-sm">
+                  Ututo Nights
+                </li>
+              </Link>
             </ul>
           </div>
         </div>
