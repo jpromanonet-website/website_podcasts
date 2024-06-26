@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Juan P. Romano - Podcasts</title>
+        <title>Podcasts - Juan P. Romano</title>
       </Head>
     <Ututo />
     </div>
