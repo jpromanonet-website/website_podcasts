@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Podcasts from '../components/Podcasts'
+import Ututo from '../components/Ututo'
 
 
 export default function Home() {
@@ -8,7 +8,7 @@ export default function Home() {
       <Head>
         <title>Juan P. Romano - Podcasts</title>
       </Head>
-    <Podcasts />
+    <Ututo />
     </div>
   )
 }

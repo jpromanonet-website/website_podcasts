@@ -5,14 +5,14 @@ import Image from "next/image";
 {/* Import projects images */}
 import ututo from '../public/assets/ututo.png'
 
-function Podcasts() {
+function Ututo() {
   return (
-    <div id="opensource" className="w-full md:h-screen p-2 pt-16">
+    <div id="ututo" className="w-full md:h-screen p-2 pt-16">
       <div className="max-w-[1240px] m-auto">
         <br/>
-        <p className="uppercase text-xl tracking-widest text-[#000] mb-5">Podcasts</p>
+        <p className="uppercase text-xl tracking-widest text-[#000] mb-5">Ututo Nights</p>
         <p className="py-2 text-gray-600">
-          Ututo Nights
+          2024
         </p>
         <br/>
         <Grid container spacing={2}>
@@ -39,4 +39,4 @@ function Podcasts() {
   );
 }
 
-export default Podcasts;
+export default Ututo;

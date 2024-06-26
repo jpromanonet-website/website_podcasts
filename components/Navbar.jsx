@@ -38,6 +38,9 @@ const Navbar = () => {
             <li className="ml-10 text-sm uppercase hover:border-b">
               <Link href="https://jpromanonet.vercel.app">Home</Link>
             </li>
+            <li className="ml-10 text-sm uppercase hover:border-b">
+              <Link href="/#ututo">Ututo Nights</Link>
+            </li>
           </ul>
           {/* Hamburger Icon */}
           <div
