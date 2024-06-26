@@ -26,7 +26,7 @@ function Podcasts() {
                   <Image src={ututo} alt="Ututo Logo" width={300} height={150} />
                 </CardMedia>
                 <br/>
-                <Button variant="contained" color="primary" href="https://open.spotify.com/episode/2qT9jtxwdbP6IuZ7Ehv1tM?si=6255287fbc554993" target="_blank" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                <Button variant="contained" color="secondary" href="https://open.spotify.com/episode/2qT9jtxwdbP6IuZ7Ehv1tM?si=6255287fbc554993" target="_blank" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
                   Listen chapter
                 </Button>
               </CardContent>
