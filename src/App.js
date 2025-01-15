@@ -63,7 +63,7 @@ function App() {
             className={classes.littleSpace}
             color="primary"
           >
-            Podcasts that I'm currently workinh or worked before (click <a href="https://jpromano.net/about">here</a> to return home)
+            Podcasts that I'm currently working or worked before (click <a href="https://jpromano.net/about">here</a> to return home)
           </Typography>
           <Typography
             variant="h5"
