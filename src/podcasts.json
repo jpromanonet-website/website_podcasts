@@ -1,8 +1,14 @@
 [ 
   {
-    "title": "HomeSpot",
-    "imageSrc": "./assets/homespot.png",
-    "url": "https://homespot.com.ar",
+    "title": "Ututo Nights - Spotify",
+    "imageSrc": "./assets/ututo_spotify.png",
+    "url": "https://open.spotify.com/show/6E6Vk5F5XN3DsT4EWLux6I",
+    "category": "2024"
+  },
+  {
+    "title": "Ututo Nights - Youtube",
+    "imageSrc": "./assets/ututo_youtube.png",
+    "url": "https://www.youtube.com/watch?v=goNZYUs5RyI&list=PLONgnbnm4t3pWKdbmS5C4Q8t40qXlAT0-",
     "category": "2024"
   }
 ]
